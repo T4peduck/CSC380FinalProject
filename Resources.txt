@@ -1,1 +1,8 @@
 https://developer.ibm.com/tutorials/awb-classifying-data-svm-algorithm-python/
+
+
+https://www.kaggle.com/code/mehmetlaudatekman/text-classification-svm-explained
+
+https://www.analyticsvidhya.com/blog/2022/05/a-complete-guide-on-feature-extraction-techniques/
+
+https://www.kaggle.com/code/madz2000/sarcasm-detection-with-glove-word2vec-83-accuracy
