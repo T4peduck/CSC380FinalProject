@@ -9,3 +9,4 @@ A guide on Feature Extraction Techniques
 
 https://www.kaggle.com/code/madz2000/sarcasm-detection-with-glove-word2vec-83-accuracy
 Sarcasm detection with GloVe and Word2Vec
+    Care: this tutorial has leakage between the test and training set when training model
