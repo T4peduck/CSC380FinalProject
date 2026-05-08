@@ -10,3 +10,9 @@ A guide on Feature Extraction Techniques
 https://www.kaggle.com/code/madz2000/sarcasm-detection-with-glove-word2vec-83-accuracy
 Sarcasm detection with GloVe and Word2Vec
     Care: this tutorial has leakage between the test and training set when training model
+
+https://www.sciencedirect.com/science/article/pii/S0952197625001678?via%3Dihub
+A deep dive into automated sexism detection using fine-tuned deep learning and large language models
+
+https://mail.etasr.com/index.php/ETASR/article/view/8881/4276
+A Systematic Literature Review on Automatic Sexism Detection in Social Media
